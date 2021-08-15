@@ -1,0 +1,23 @@
+.img{
+    display: flex;
+    flex-direction: row;
+    margin:12px;
+    scale:12px
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    /* background-color:#000000; */
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    /* color: #ffffff; */
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+}
